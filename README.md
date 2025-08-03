@@ -16,7 +16,7 @@ This data analysis project used Excel to clean and analyze the dataset. This pro
 When calculating the mean happiness score globally (based on the above-referenced samples), the average happiness score globally was 5.38 in 2015, 5.39 in 2016 and 5.36 in 2017.  Global happiness scores demonstrated stability over the course of these three years. The histograms below demonstrate the distributions of happiness scores for 2015, 2016, and 2017 respectively. Additionally, maps representing happiness scores from 2017 to 2015 are depicted below. (To view the interactive map on Tableau, please see the Tableau link above.)
 
  
-
+<img src = "images/Pie_Chart_2.png" width = 600> 
 
  
 
