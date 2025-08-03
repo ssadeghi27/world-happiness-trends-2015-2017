@@ -16,43 +16,21 @@ This data analysis project used Excel to clean and analyze the dataset. This pro
 When calculating the mean happiness score globally (based on the above-referenced samples), the average happiness score globally was 5.38 in 2015, 5.39 in 2016 and 5.36 in 2017.  Global happiness scores demonstrated stability over the course of these three years. The histograms below demonstrate the distributions of happiness scores for 2015, 2016, and 2017 respectively. Additionally, maps representing happiness scores from 2017 to 2015 are depicted below. (To view the interactive map on Tableau, please see the Tableau link above.)
 
  
-<img src = "Histogram 2015.png" width = 600> 
-<img src = "Histogram 2016.png" width = 600>
-
-<img src = "Histogram 2017.png" width = 600> 
-
- 
-
- 
 
 
+<img src = "Histograms.png"> 
 
 
-**World Happiness Scores in 2015**
 
 <img src = "Map 2015.png"> 
  
 
-**World Happiness Scores in 2016**
-
 <img src = "Map 2016.png"> 
 
-
-
-
-
-
-
-
-
-
-
-
-	
-
-**World Happiness Scores in 2017**
   
 <img src = "Map 2017.png"> 
+
+
 
 When examining trends of whether happiness scores are increasing, decreasing, or remaining constant from 2015 to 2017, 43% of countries (65 countries) indicated an increase in happiness score, 42% of countries (63 countries) reported a decrease in happiness score, with 15% of countries (23 countries) remaining constant in their happiness score. Many fluctuations in the happiness scores were minimal from 2015 to 2017. However, the country to show the most substantial increase in its happiness score from 2015 to 2017 was Togo, which demonstrated a 25% increase in its happiness score (from 2.80 to 3.50). No other countries demonstrated more than a 20% increase in happiness scores. However, five countries showed a substantial decrease in their happiness scores of 20% or more including Central African Republic (from 3.70 to 2.70), Liberia (from 4.60 to 3.50), Haiti (from 4.50 to 3.60), Lesotho (from 4.90 to 3.80), and Venezuela (from 6.80 to 5.30).
 
